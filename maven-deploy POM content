@@ -1,0 +1,11 @@
+ <!-- Added the distributionManagement section for local repository deployment -->
+    <distributionManagement>
+        <repository>
+            <id>local-repo</id>
+            <url>file:///C:/Users/QSP/Desktop/mvn</url>
+        </repository>
+        <snapshotRepository>
+            <id>local-snapshot-repo</id>
+            <url>file:///C:/Users/QSP/Desktop/mvn</url>
+        </snapshotRepository>
+    </distributionManagement>
