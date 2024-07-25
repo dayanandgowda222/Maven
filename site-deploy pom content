@@ -1,0 +1,6 @@
+<--! add this inside distribution management --->
+
+<site>
+      <id>local-site-repo</id>
+      <url>file:///C:/Users/QSP/Desktop/site-deploy</url>
+</site>
