@@ -1,0 +1,8 @@
+<!-- Added the class name of jar file (which class to run, in our case it is App class) -->
+<configuration>
+          <archive>
+            <manifest>
+              <mainClass>demo.project.App</mainClass>
+            </manifest>
+          </archive>
+</configuration> 
